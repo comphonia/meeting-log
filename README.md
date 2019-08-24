@@ -2,7 +2,7 @@
 clone the repo and create a .env file in the root directory. You will have to setup your own firebase app and utilize its credentials.
 
 Your .env file should look like this
-`
+```
 NODE_ENV=development
 
 REACT_APP_API_KEY= //your firebase api key ...
@@ -13,7 +13,7 @@ REACT_APP_STORAGE_BUCKET=
 REACT_APP_MESSAGING_SENDER_ID=
 REACT_APP_APP_ID=
 
-`
+```
 simply add your configuration variables, save and `npm start`
 
 ## Available Scripts
